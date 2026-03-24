@@ -404,7 +404,7 @@ main {
 /* Fix background mobil (iOS + Android) */
 @media (max-width: 768px) {
   body {
-    background-size: auto 120vh;
+    background-size: auto 90vh;
     background-position: center top;
   }
 }
