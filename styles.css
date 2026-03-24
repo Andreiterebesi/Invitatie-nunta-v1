@@ -227,7 +227,7 @@ main {
 
 .countdown__value {
   display: block;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Inter', serif;
   font-size: clamp(2.4rem, 9vw, 4rem);
   line-height: 1;
 }
