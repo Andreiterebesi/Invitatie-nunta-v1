@@ -96,6 +96,11 @@ textarea {
 
 .hero {
   padding: 1rem 0 4.5rem;
+
+  background-image: url("images/background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .hero__content {
