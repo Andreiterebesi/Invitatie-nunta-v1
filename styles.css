@@ -468,17 +468,12 @@ main {
 .ampersand-line::after {
   right: 0;
 }
-/* ===== Data elegantă cu Allura ===== */
+/* ===== Data cursivă elegantă ===== */
 
-.fancy-date {
-  font-family: "Cormorant Garamond", serif;
-  font-size: 28px;
+.date-allura {
+  font-family: "Allura", cursive;
+  font-size: 52px;
   text-align: center;
   margin-bottom: 15px;
-}
-
-.fancy-date span {
-  font-family: "Allura", cursive;
-  font-size: 48px;
-  margin: 0 6px;
+  line-height: 1.2;
 }
