@@ -423,5 +423,50 @@ main {
   background: #333;
   transform: translateY(-2px);
 }
+/* ===== Nume stil invitație ===== */
+
+.names {
+  text-align: center;
+  margin: 20px 0 10px;
+}
+
+.name-top,
+.name-bottom {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 52px;
+  letter-spacing: 0.35em;
+  font-weight: 600;
+}
+
+.ampersand-line {
+  position: relative;
+  margin: 10px 0;
+}
+
+.ampersand-line span {
+  font-family: "Great Vibes", cursive;
+  font-size: 72px;
+  line-height: 1;
+  position: relative;
+  z-index: 1;
+}
+
+.ampersand-line::before,
+.ampersand-line::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  width: 40%;
+  height: 1px;
+  background: #000;
+}
+
+.ampersand-line::before {
+  left: 0;
+}
+
+.ampersand-line::after {
+  right: 0;
+}
 
 
