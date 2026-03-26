@@ -470,10 +470,10 @@ main {
 }
 /* ===== Data cursivă elegantă ===== */
 .date-allura {
-  font-family: "Great Vibes", cursive;
-  font-size: 48px;
+  font-family: "Parisienne", cursive;
+  font-size: 52px;
   text-align: center;
-  margin: 10px 0 25px;
+  margin: 15px 0 30px;
   line-height: 1.2;
 
   letter-spacing: normal;
