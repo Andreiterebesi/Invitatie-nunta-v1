@@ -524,3 +524,8 @@ main {
   line-height: 1.7;
   color: var(--muted);   /* aceeași culoare ca restul textului */
 }
+/* ===== Spațiu titlu RSVP ===== */
+
+.section--rsvp h2 {
+  margin-bottom: 18px;
+}
