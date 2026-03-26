@@ -469,14 +469,13 @@ main {
   right: 0;
 }
 /* ===== Data cursivă elegantă ===== */
-
 .date-allura {
-  font-family: "Mea Culpa", cursive;
-  font-size: 72px;
+  font-family: "Great Vibes", cursive;
+  font-size: 48px;
   text-align: center;
-  margin: 5px 0 25px;
-  line-height: 1;
+  margin: 10px 0 25px;
+  line-height: 1.2;
 
   letter-spacing: normal;
-  text-transform: none !important;   /* ← asta oprește UPPERCASE */
+  text-transform: none;
 }
