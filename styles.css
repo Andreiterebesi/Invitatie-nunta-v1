@@ -479,3 +479,29 @@ main {
   letter-spacing: normal;
   text-transform: none;
 }
+/* ===== Familie ===== */
+
+.family-block {
+  margin-top: 18px;
+  text-align: center;
+}
+
+.family-title {
+  margin: 0;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 20px;
+  letter-spacing: 0.08em;
+}
+
+.family-names {
+  margin: 8px 0 0;
+  line-height: 1.8;
+  color: var(--muted);
+}
+
+.family-memory {
+  margin-top: 10px;
+  font-style: italic;
+  color: var(--muted);
+  font-size: 0.95em;
+}
