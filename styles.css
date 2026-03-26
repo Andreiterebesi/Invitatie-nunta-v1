@@ -505,7 +505,7 @@ main {
   color: var(--muted);
   font-size: 0.95em;
 }
-/* ===== Nași ===== */
+/* ===== Nași — stil uniform ===== */
 
 .godparents-block {
   margin-top: 20px;
@@ -513,29 +513,14 @@ main {
 }
 
 .godparents-title {
-  margin: 0;
+  margin: 0 0 8px;
   font-family: "Cormorant Garamond", serif;
   font-size: 20px;
   letter-spacing: 0.08em;
 }
 
-.godparents-main {
-  margin: 8px 0 0;
-  font-size: 1.1rem;
-  line-height: 1.6;
-}
-
-.godparents-with {
-  margin: 6px 0;
-  font-size: 0.85rem;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--muted);
-}
-
-.godparents-secondary {
-  margin: 0;
-  line-height: 1.6;
-  font-size: 1rem;
-  color: var(--muted);
+.godparents-names {
+  margin: 4px 0;
+  line-height: 1.7;
+  color: var(--muted);   /* aceeași culoare ca restul textului */
 }
